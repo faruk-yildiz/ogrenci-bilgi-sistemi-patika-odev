@@ -1,0 +1,2 @@
+# Patika Ödev
+patika.dev
